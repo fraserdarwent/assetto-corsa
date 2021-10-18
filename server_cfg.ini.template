@@ -1,6 +1,6 @@
 [SERVER]
 NAME=${SERVER_NAME}
-CARS=ks_mclaren_p1_gtr
+CARS=bmw_m3_e30
 CONFIG_TRACK=
 TRACK=ks_silverstone
 SUN_ANGLE=48

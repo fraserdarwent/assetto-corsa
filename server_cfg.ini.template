@@ -1,7 +1,7 @@
 [SERVER]
 NAME=${SERVER_NAME}
-CARS=ks_praga_r1;ks_porsche_991_turbo_s;ks_porsche_cayman_gt4_clubsport;ks_porsche_919_hybrid_2016;ks_audi_r8_plus;bmw_m3_e30;ks_nissan_370z;ks_ford_escort_mk1;ks_bmw_m4;ks_ferrari_f2004;ks_mclaren_f1_gtr;ks_mclaren_p1_gtr;ferrari_laferrari;ks_mclaren_p1;ks_porsche_918_spyder;ferrari_f40;ferrari_458;ks_ferrari_488_gtb;ks_lamborghini_huracan_performante;ks_lamborghini_aventador_sv;ks_ferrari_812_superfast;ks_porsche_911_gt3_rs
-TRACK=ks_silverstone
+CARS=mclaren_mp412c_gt3
+TRACK=doningtonpark2018
 CONFIG_TRACK=gp
 SUN_ANGLE=80
 PASSWORD=${SERVER_PASSWORD}

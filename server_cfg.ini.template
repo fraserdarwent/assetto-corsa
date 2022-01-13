@@ -1,7 +1,7 @@
 [SERVER]
 NAME=${SERVER_NAME}
-CARS=ks_ferrari_f2004
-TRACK=spa
+CARS=ks_mercedes_190_evo2,ks_mclaren_p1,lotus_2_eleven_gt4,lotus_evora_gtc
+TRACK=mugello
 CONFIG_TRACK=
 SUN_ANGLE=60
 PASSWORD=${SERVER_PASSWORD}
